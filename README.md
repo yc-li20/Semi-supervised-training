@@ -19,5 +19,5 @@ You may kindly cite
 
 The Frechet audio distance is implemented using [Microsoft FAD Toolkit](https://github.com/microsoft/fadtk)
 
-The R3 prompt and parameter-efficient fine-tuning code is reused from our another icassp 2025 submission:
+The R3 prompt and parameter-efficient fine-tuning code is used from our another icassp 2025 submission:
 [**Revise, Reason, and Recognize: LLM-Based Emotion Recognition via Emotion-Specific Prompts and ASR Error Correction**](https://github.com/yc-li20/Emotion-Prompt)
